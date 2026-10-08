@@ -1,0 +1,43 @@
+{
+  "deck": "/absolute/path/to/your-course-deck.pdf",
+  "deck_note": "A short deck with one card per course and no prices. Partners look at the courses first and talk terms on the call.",
+  "signature": ["Best regards,", "YOUR NAME", "YOUR ROLE, YOUR COMPANY", "you@example.com", "+00 000 000 0000", "{city}"],
+  "locales": {
+    "en": {
+      "intro": "I am YOUR NAME, founder of YOUR COMPANY. I am a trainer and builder, {base}. I have delivered training to more than N people in N countries, and I am a PARTNER CREDENTIAL, a PARTNER CREDENTIAL, and a PARTNER CREDENTIAL.",
+      "attachment_lead": "The attachment has six course cards. {n} may {fit_phrase}: {courses}.",
+      "fit_phrase_default": "fit your programmes",
+      "why_now": {
+        "default": "Why now: entrepreneurs that I talk with in {country} keep asking for AI training in English for their international teams, and I would rather deliver it with an established partner than alone.",
+        "association": "Why now: entrepreneurs that I talk with in {country} keep asking for AI training in English for their international teams, and your members are exactly those teams."
+      },
+      "ask": {
+        "default": "Could we find 20 minutes for a call? I am happy to discuss formats and terms then.",
+        "association": "Could we find 20 minutes for a call to see whether a session fits your event calendar?"
+      },
+      "subject": {
+        "default": "Partnering on AI training in English",
+        "association": "AI training in English for your members: a guest session and a question"
+      },
+      "greeting_team": "Hello {org} team,",
+      "greeting_named": "Dear {names},",
+      "numbers": {"1": "One", "2": "Two", "3": "Three", "4": "Four"},
+      "courses": {
+        "aibb": "the AI Business Brain for companies, a two-day course where each participant builds a working knowledge and workflow system for one department",
+        "gemini": "Google Workspace with Gemini, for teams that work in Google rather than Microsoft",
+        "sales": "AI for Sales, from lead to proposal",
+        "ads": "AI-run advertising on Meta, Google, TikTok and ChatGPT ads",
+        "culture": "Implementing an AI culture, a 90-day programme for leadership teams",
+        "copilot": "Microsoft 365 Copilot at work, delivered in English"
+      }
+    }
+  },
+  "defaults": {"base": "based in YOUR CITY", "city": "YOUR CITY"},
+  "country_overrides": {
+    "Latvia": {"base": "based in Riga", "city": "Riga", "locale": "en"},
+    "Italy": {"base": "based in Rome", "city": "Rome", "locale": "it", "note": "Write the it locale before the first Italian run: intro, why_now (hook = hands-on practitioner with partner credentials for their catalogue's AI gap, not English), asks, subjects, course one-liners in Italian."},
+    "Brazil": {"base": "based in Sao Paulo", "city": "Sao Paulo", "locale": "pt", "note": "Write the pt locale before the first Brazilian run."},
+    "United Kingdom": {"base": "based in London", "city": "London", "locale": "en", "note": "Replace the English hook in why_now with your depth on the tools the market uses."},
+    "United States": {"base": "based in New York", "city": "New York", "locale": "en", "note": "Same as UK; remote delivery and time zones matter in the partner sentence."}
+  }
+}
