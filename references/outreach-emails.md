@@ -10,7 +10,7 @@ The Latvian wave (October 2026) used one skeleton for 44 organisations, with one
 4. **Attachment sentence.** "The attachment has six course cards. Two may fit <their programmes / your catalogue / your members / your calendar>: <course one-liner>, and <course one-liner>." Pick two or three courses that fit; the one-liners come from the offer file so the course descriptions never drift.
 5. **Why now.** Default: "Why now: entrepreneurs that I talk with in <Country> keep asking for AI training in English for their international teams, and I would rather deliver it with an established partner than alone." Associations, chambers, employer bodies and communities: "... and your members are exactly those teams." The user changed "companies I work with" to "entrepreneurs that I talk with" on the sent version; keep the user's wording.
 6. **Ask.** Default: "Could we find 20 minutes for a call? I am happy to discuss formats and terms then." (no "next week": the user removed it). Associations and chambers: "Could we find 20 minutes for a call to see whether a session fits your event calendar?"
-7. **Signature.** Best regards, the user Giuliani, Founder, YOUR COMPANY, <your address>, +00 000 000 0000, <city>. No website link (the composer would rewrite it).
+7. **Signature.** Best regards, YOUR NAME, YOUR ROLE, YOUR COMPANY, <your address>, +00 000 000 0000, <city>. No website link (the composer would rewrite it).
 
 Subject: `Partnering on AI training in English`. Associations, chambers, employer bodies: `AI training in English for your members: a guest session and a question`. Adapt "in English" to the country's angle (Italy: `Collaborazione sulla formazione AI per le aziende`).
 
